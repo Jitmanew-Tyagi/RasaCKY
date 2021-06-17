@@ -16,6 +16,15 @@ nlu:
     - goodmorning
     - goodevening
     - good afternoon
+    - How are you
+    - Is anyone there?
+    - Hola
+    - Good day
+    - How you doing
+    - The way you are
+    - How you holding up
+    - How you feel
+    - How you going
 
 - intent: goodbye
   examples: |
@@ -107,12 +116,16 @@ nlu:
     - How will you accomplish your targets?
     - How will you gain your targets?
     - What have you gained?
+    - showcase student achievements
+    - what did students develop during the courses
+    - student works
     
 - intent: Company_details
   examples: |
     - Who is your founder?
     - When was your company started?
     - what is code karo yaaro?
+    - company details
     - where is main branch of code karo yaaro?
     - details of code karo
     - Why code karo yaaro for my kid?
@@ -229,6 +242,7 @@ nlu:
     - How can I withdraw my subscription?
     - Where do I cancel my subscription?
     - How to cancel my subscription?
+    - 
       
 - intent: Prerequisite
   examples: |
@@ -567,7 +581,7 @@ nlu:
     -	My child is in grade 12. Can he/she take the course?
     -	My child is in Grade 12. Is he or she eligible to take the course?
               
-- intent: Specific_qquestions11
+- intent: Specific_qquestions1
   examples: |
     - Which course for developing a mobile application?
     -	What course to build a mobile application?
@@ -1262,6 +1276,7 @@ nlu:
     -	What are the prices of online classes?
     -	What are the costs of the live courses?
     -	What are the rates for live courses?
+    - what are the prices for live classes?
     -	Can I find out the price of the courses online?
     -	Can I know the price of the online courses?
     -	Can I get the price of the live lessons?
@@ -1286,6 +1301,17 @@ nlu:
     -	How much is the price of the live courses? 
     -	What is the cost of online courses?
     -	What is the cost of live classes?
+    - May I know about the live classes pricing
+    - Price for the live classes
+    - How much are the live classes going to cost?
+    - Enquiry regarding liveclasses
+    - I'd like to inquire about the cost of live classes
+    - Live classes cost
+    - prices for 1:1 live interactive classes
+    - live classes having lowest price
+    - Available live classes options with prices
+    - Are live classes available and what cost?
+    - Different categories of live classes
 
                      
 - intent: Course_price
