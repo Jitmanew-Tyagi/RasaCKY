@@ -8,6 +8,47 @@ intents:
   - mood_great
   - mood_unhappy
   - bot_challenge
+  - Achievments
+  - Company_details
+  - Mentors
+  - Cancellation_and_Refund
+  - Prerequisite
+  - Coding_Languages
+  - Multiple_courses
+  - Specific_questions2
+  - Specific_questions3
+  - Specific_questions4
+  - Missed_Classes
+  - Specific_questions5
+  - Eligible
+  - Specific_qquestions1
+  - Specific_questions
+  - Monitor
+  - Time
+  - Size
+  - Outcome
+  - Help
+  - Suggestions
+  - Offers
+  - Achievements
+  - Special
+  - Contact
+  - Differences
+  - Live_class_contents
+  - Course_contents
+  - Live_classes_prices
+  - Course_price
+  - Statistics
+  - Values
+  - Partners
+  - Course_levels
+  - Enrollment
+  - Change
+  - Programming_languages
+  - Coding
+  - Payment
+  - Options
+  - Courses
 
 responses:
   utter_greet:

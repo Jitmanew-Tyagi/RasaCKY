@@ -202,7 +202,7 @@ nlu:
     -	Can you talk a little bit about the mentors?
     -	Can I ask about the mentors?
           
-- intent: Cancellation and Refund
+- intent: Cancellation_and_Refund
   examples: |
     - How can I cancel my membership?
     - How can you cancel your subscription?
@@ -276,7 +276,7 @@ nlu:
     - What does accommodation mean for students with special needs or English learners?
     - What are accommodations for special needs students and English learners?
           
-- intent: Coding Languages
+- intent: Coding_Languages
   examples: |
     - What are the various coding languages?
     - Which are the different coding languages?
@@ -286,7 +286,7 @@ nlu:
     - What are different languages of coding?
     - Which languages are used for coding?
 
-- intent: Multiple courses
+- intent: Multiple_courses
   examples: |
     - Can I attend multiple classes at once?
     - Can I take a number of courses at once?
@@ -386,7 +386,7 @@ nlu:
     -	My child is a fan of mobile games. What class do you suggest?
     -	My child loves mobile games. What course would you like to take?
               
-- intent: Missed Classes
+- intent: Missed_Classes
   examples: |
     - What if my child is missing a session for a personal reason?
     -	What if my child misses a session due to personal reasons?
@@ -1217,7 +1217,7 @@ nlu:
     -	What about the different educational levels?
 
                  
-- intent: Live class contents
+- intent: Live_class_contents
   examples: |
     - What is the content of the live lessons?
     -	What is the content of the live lectures?
